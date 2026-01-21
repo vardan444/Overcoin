@@ -1,2 +1,3 @@
 # Overcoin
 Overcoin
+OVC
